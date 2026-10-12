@@ -115,4 +115,4 @@ Visit **http://localhost:3000** after 2 minutes.
 
 ---
 
-*Built for HackQubit 2026 — Sponsored Track: Enterprise Cloud & CRM*
+*Built for HackQubit 2026 — Sponsored Track: Enterprise Cloud & CRM and also i am the ghost*.
