@@ -115,5 +115,4 @@ Visit **http://localhost:3000** after 2 minutes.
 
 ---
 
-*Built for HackQubit 2026 — Sponsored Track: Enterprise Cloud & CRM i am sick of doing 
-this *.
+*Built for HackQubit 2026 — Sponsored Track: Enterprise Cloud & CRM*.
